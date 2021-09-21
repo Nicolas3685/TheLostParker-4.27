@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Game\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-21 01:34\n"
-"PO-Revision-Date: 2021-09-20 23:24-0400\n"
+"PO-Revision-Date: 2021-09-20 23:57-0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
@@ -264,7 +264,7 @@ msgstr "Use"
 #: /Game/HorrorEngine/Maps/Demonstration.Demonstration:PersistentLevel.TextRenderActor25_5.NewTextRenderComponent.Text
 msgctxt ",05B40E45477AD0AAAB74499A0B456301"
 msgid "Special Thanks"
-msgstr "Special Thanks"
+msgstr "Gracias especiales"
 
 #. Key:	060337384C098847ECE4598BA86B6693
 #. SourceLocation:	/Game/HorrorEngine/Blueprints/UsableAssets/Inventory/Key.Key_C:ExecuteUbergraph_Key [Script Bytecode]
@@ -272,7 +272,7 @@ msgstr "Special Thanks"
 #: [Script Bytecode]
 msgctxt ",060337384C098847ECE4598BA86B6693"
 msgid "has been locked."
-msgstr "has been locked."
+msgstr "ha sido bloqueado."
 
 #. Key:	0630DFBD414676B8366909BF2E9CC7CF
 #. SourceLocation:	/Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.Battery3_1841.ZoomSlideButton(Inventory).ButtonText_26_3474AD89424F1446015548861C46A61F
@@ -1122,7 +1122,7 @@ msgstr "Use"
 #: /Game/HorrorEngine/Maps/Demonstration.Demonstration:PersistentLevel.Battery2_1969.InspectionSettings.ItemInformation_62_0F198A544F6251A2B833EF80CC4CC070
 msgctxt ",211933084B2EE6954BB1818DC4CAA12A"
 msgid "Mokoko Battery is a device consisting of one or more electrochemical cells with external connections provided to power electrical devices such as flashlights."
-msgstr "Mokoko Battery is a device consisting of one or more electrochemical cells with external connections provided to power electrical devices such as flashlights."
+msgstr "La batería Mokoko es un dispositivo que consta de una o más celdas electroquímicas con conexiones externas provistas para alimentar dispositivos eléctricos como linternas. "
 
 #. Key:	217B0DAB48C9321194BBFC95DB1C9FAA
 #. SourceLocation:	/Game/HorrorEngine/Maps/Demonstration.Demonstration:PersistentLevel.EventTrigger7_1034.CreateNewHorrorEvent(0).CreateNewHorrorEvent.HorrorEvent_66_E7DE7EF94B0F3B233F4B6096A27A7990.Subtitles_287_16A3456449DBAD287C2AFF910A36AB52.AddSequence_10_208EB81C4C61610D900C44ABE98D1B74(0).AddSequence_10_208EB81C4C61610D900C44ABE98D1B74.AddSubtitle_55_08FC403D464A20C6CBF55A82BF774C1F(2).AddSubtitle_55_08FC403D464A20C6CBF55A82BF774C1F.SubtitleText_6_6BCC1FAE4AA18AB3A2C109B289F03ECC
@@ -1288,7 +1288,7 @@ msgstr "added to inventory."
 #: /Game/HorrorEngine/Blueprints/UsableAssets/Inventory/Painkiller.Default__Painkiller_C.InteractionButton.ButtonText_26_3474AD89424F1446015548861C46A61F
 msgctxt ",25466FC94E352410C69EE7A5232CD893"
 msgid "Use"
-msgstr "Use"
+msgstr "Usar"
 
 #. Key:	255B464441CEABAE57649E9D65AE8EB8
 #. SourceLocation:	/Game/HorrorEngine/Maps/Demonstration.Demonstration:PersistentLevel.VHS.InspectionSettings.ReadingText_66_A154D95C42F799C27CB6DA93F583A0E0
@@ -2651,7 +2651,7 @@ msgstr "Left Mouse: Use / Hit"
 #: [Script Bytecode]
 msgctxt ",51A2DEEF4EB0C79B3E25AF8EAE2936C2"
 msgid "in equipment."
-msgstr "in equipment."
+msgstr "añadido al equipo."
 
 #. Key:	51D6187E491592A944A16F85C91DAA10
 #. SourceLocation:	/Game/HorrorEngine/Blueprints/UsableAssets/DoorsAndFurnitures/Cabinet.Cabinet_C:ExecuteUbergraph_Cabinet [Script Bytecode]
@@ -2733,7 +2733,7 @@ msgstr "Zoom/Slide"
 #: [Script Bytecode]
 msgctxt ",53DBBE0D4E1E9CD821441AAD5069D89F"
 msgid "added to equipment."
-msgstr "added to equipment."
+msgstr "añadido al equipo."
 
 #. Key:	53EDE724469869CFECF1CDBE26490A50
 #. SourceLocation:	/Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.TextRenderActor37.NewTextRenderComponent.Text
@@ -2777,7 +2777,7 @@ msgstr "Dismiss"
 #: [Script Bytecode]
 msgctxt ",5676D7B042EA4195E334BE9423CF7C69"
 msgid "added to equipment."
-msgstr "added to equipment."
+msgstr "añadido al equipo."
 
 #. Key:	575EC80B4C4E202002CAD2A689A67EE0
 #. SourceLocation:	/Game/HorrorEngine/Maps/Demonstration.Demonstration:PersistentLevel.EventTrigger_386.CreateNewHorrorEvent(0).CreateNewHorrorEvent.HorrorEvent_66_E7DE7EF94B0F3B233F4B6096A27A7990.Subtitles_287_16A3456449DBAD287C2AFF910A36AB52.AddSequence_10_208EB81C4C61610D900C44ABE98D1B74(1).AddSequence_10_208EB81C4C61610D900C44ABE98D1B74.AddSubtitle_55_08FC403D464A20C6CBF55A82BF774C1F(1).AddSubtitle_55_08FC403D464A20C6CBF55A82BF774C1F.SubtitleText_6_6BCC1FAE4AA18AB3A2C109B289F03ECC
@@ -3074,7 +3074,7 @@ msgstr "Gratz!"
 #: [Script Bytecode]
 msgctxt ",5F3C0A9141678F3B31598FB6627ACD1E"
 msgid "added to lighter."
-msgstr "added to lighter."
+msgstr "mechero añadido"
 
 #. Key:	5F9797864CD864A62BD72487A4BF9D77
 #. SourceLocation:	/Game/HorrorEngine/Blueprints/Enums/HorrorEventCheck.HorrorEventCheck.DisplayNameMap(25 - Value).DisplayNameMap
@@ -3208,7 +3208,7 @@ msgstr "Detection disabled on this camera"
 #: [Script Bytecode]
 msgctxt ",63E8418C445F1CF439109A9444F2EE94"
 msgid "added to inventory."
-msgstr "added to inventory."
+msgstr "Agregado al inventario"
 
 #. Key:	64ABABC3431B2D5DF586479DFBB2F769
 #. SourceLocation:	/Game/HorrorEngine/Blueprints/Enums/InventoryActors.InventoryActors.DisplayNameMap(10 - Value).DisplayNameMap
@@ -8255,4 +8255,3 @@ msgstr "TAB: Inventory"
 msgctxt ",FFC1D6C9492FF6559B9D159A24C7B121"
 msgid "and"
 msgstr "and"
-
